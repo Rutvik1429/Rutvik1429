@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Rutvik Bambhaniya
 
-<!--
-**Rutvik1429/Rutvik1429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst 
+📊 Skilled in Excel, SQL, Python, Power BI, Machine Learning  
+📍 Passionate about turning data into actionable business insights
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am an aspiring **Data Analyst** with hands-on experience in:
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Dashboard creation
+- Business problem solving using data
